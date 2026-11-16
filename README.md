@@ -18,16 +18,22 @@ O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery)
 
 ### ⚙️ O que o sistema vai fazer na prática
 1. **Cardápio Organizado:** Gerenciamento dos bolos de pronta entrega (fatias e bolos inteiros menores) e dos extras (bebidas).
+
 2. **Montagem de Pedidos Personalizados:** O atendente escolhe a massa, o recheio e o peso do bolo, escreve a frase da plaquinha (ex: *"Parabéns, Ana!"*) e o sistema já calcula o preço final com a entrega.
+
 3. **Cuidado na Entrega (Motoboys):** O sistema controla quais entregadores estão livres e avisa quando um pedido tem bolo grande de festa.
+
 4. **Acompanhamento do Pedido:** Mostra em qual etapa cada pedido está (*Recebido* $\rightarrow$ *Na Confeitaria* $\rightarrow$ *Saiu para Entrega* $\rightarrow$ *Entregue*).
+
 5. **Portabilidade:**
    * **Clientes:** Mobile
    * **Motoboys:** Mobile
    * **Funcionários:** Desktop
+
 6. **Cadastro Completo de Produtos e Motoboys:**
    * **Produtos:** Adicionar novos sabores/itens, editar preços, e ativar/inativar um bolo caso algum ingrediente acabe no dia (sem apagar o histórico de vendas antigas).
    * **Motoboys:** Cadastrar novos entregadores (nome, telefone, placa e tipo de baú), editar dados e alterar o status manualmente (*Disponível*, *Indisponível*, *Em Rota*).
+
 7. **Histórico de Pedidos e Cancelamento:** Além de ver os pedidos ativos do momento, o atendente pode consultar o histórico de pedidos já entregues (para conferir endereço, valor ou cliente recorrente) e ter a opção de cancelar um pedido caso o cliente desista antes do preparo.
 
 ---
@@ -44,9 +50,9 @@ O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery)
 
 | Integrante | GitHub | Principal Contribuição Técnica |
 | :--- | :--- | :--- |
-| **Luiz Maycleiton** | [github.com/LuizMaycleiton](https://github.com/LuizMaycleiton) | *A preencher ao longo do projeto* |
-| **Pedro Felix** | [github.com/Pedro-Felix2808](https://github.com/Pedro-Felix2808) | *A preencher ao longo do projeto* |
-| **Fábio Tavares** | [github.com/FabioTavaresCruz](https://github.com/FabioTavaresCruz) | *A preencher ao longo do projeto* |
+| **Luiz Maycleiton** | [github.com/LuizMaycleiton](https://github.com/LuizMaycleiton) | 
+| **Pedro Felix** | [github.com/Pedro-Felix2808](https://github.com/Pedro-Felix2808) | 
+| **Fábio Tavares** | [github.com/FabioTavaresCruz](https://github.com/FabioTavaresCruz) |
 
 ---
 

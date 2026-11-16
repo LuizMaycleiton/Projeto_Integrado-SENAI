@@ -4,37 +4,33 @@
 
 ---
 
-## 📌 Definição de Nicho
+##  Definição de Nicho
 
-O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery).
+O nicho escolhido pelo grupo será **entrega de bolos** .
 
 ---
 
-## 🎯 Escopo do Projeto
+##  Escopo do Projeto
 
-### 💡 Ideia do Sistema: Atelier do Bolo
+###  Ideia do Sistema: Atelier do Bolo
 * **O que é a empresa:** Uma confeitaria especializada em entregas de bolos.
-* **Produtos:** A loja irá vender bolos prontos para entrega (podendo escolher entre bolos menores/médios e fatias) e bebidas. Entrega também bolos personalizados, podendo escolher a massa, o recheio e o peso do bolo.
 
-### ⚙️ O que o sistema vai fazer na prática
-1. **Cardápio Organizado:** Gerenciamento dos bolos de pronta entrega (fatias e bolos inteiros menores) e dos extras (bebidas).
+###  O que o sistema vai fazer na prática
+1. **Produtos**: A loja irá vender bolos prontos para entrega ( podendo escolher entre bolos menores/médios e fatias ) e bebidas. Entrega também bolos personalizados, podendo escolher a massa, o recheio e o peso do bolo.
 
-2. **Montagem de Pedidos Personalizados:** O atendente escolhe a massa, o recheio e o peso do bolo, escreve a frase da plaquinha (ex: *"Parabéns, Ana!"*) e o sistema já calcula o preço final com a entrega.
 
-3. **Cuidado na Entrega (Motoboys):** O sistema controla quais entregadores estão livres e avisa quando um pedido tem bolo grande de festa.
+2. **Pedidos**: O sistema controla quais são os pedidos ativos, quais entregadores estão livres e avisa quando um pedido tem bolo grande de festa. Poderá consultar o histórico de pedidos já entregues (para conferir endereço, valor ou cliente recorrente) e ter a opção de cancelar um pedido caso o cliente desista antes do preparo. 
 
-4. **Acompanhamento do Pedido:** Mostra em qual etapa cada pedido está (*Recebido* $\rightarrow$ *Na Confeitaria* $\rightarrow$ *Saiu para Entrega* $\rightarrow$ *Entregue*).
+Mostra em qual etapa cada pedido está (Recebido  Na Confeitaria  Saiu para Entrega  Entregue).
+
+
+3. **Motoboy**: Cadastrar novos entregadores (nome, telefone, placa e tipo de baú), editar dados e alterar o status manualmente (Disponível, Indisponível, Em Rota).
+
 
 5. **Portabilidade:**
    * **Clientes:** Mobile
    * **Motoboys:** Mobile
    * **Funcionários:** Desktop
-
-6. **Cadastro Completo de Produtos e Motoboys:**
-   * **Produtos:** Adicionar novos sabores/itens, editar preços, e ativar/inativar um bolo caso algum ingrediente acabe no dia (sem apagar o histórico de vendas antigas).
-   * **Motoboys:** Cadastrar novos entregadores (nome, telefone, placa e tipo de baú), editar dados e alterar o status manualmente (*Disponível*, *Indisponível*, *Em Rota*).
-
-7. **Histórico de Pedidos e Cancelamento:** Além de ver os pedidos ativos do momento, o atendente pode consultar o histórico de pedidos já entregues (para conferir endereço, valor ou cliente recorrente) e ter a opção de cancelar um pedido caso o cliente desista antes do preparo.
 
 ---
 

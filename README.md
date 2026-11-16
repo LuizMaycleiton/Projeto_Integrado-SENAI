@@ -48,10 +48,10 @@ O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery)
 
 ## 👥 Integrantes do Grupo
 
-| Integrante | GitHub | Principal Contribuição Técnica |
-| :--- | :--- | :--- |
-| **Luiz Maycleiton** | [github.com/LuizMaycleiton](https://github.com/LuizMaycleiton) | 
-| **Pedro Felix** | [github.com/Pedro-Felix2808](https://github.com/Pedro-Felix2808) | 
+| Integrante | GitHub |
+| :--- | :--- |
+| **Luiz Maycleiton** | [github.com/LuizMaycleiton](https://github.com/LuizMaycleiton) |
+| **Pedro Felix** | [github.com/Pedro-Felix2808](https://github.com/Pedro-Felix2808) |
 | **Fábio Tavares** | [github.com/FabioTavaresCruz](https://github.com/FabioTavaresCruz) |
 
 ---

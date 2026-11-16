@@ -4,7 +4,7 @@
 
 ---
 
-##  Definição de Nicho
+##  Definição de Nicho (16/11/2026)
 
 O nicho escolhido pelo grupo será **entrega de bolos** .
 

@@ -38,14 +38,6 @@ O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery)
 
 ---
 
-## 🛠️ Tecnologias & Infraestrutura
-* **Sistema Principal (LOPAL):** Python, Streamlit e SQLite
-* **Landing Page (LIMA):** HTML5 e CSS3
-* **Infraestrutura e Redes (ARI / SOP):** Docker (Contêineres Web, DNS e Aplicação), AP/Roteador com DHCP, Clientes Windows e Linux
-* **Documentação (LER):** Documento de Visão, Cronograma e Matriz de Requisitos
-
----
-
 ## 👥 Integrantes do Grupo
 
 | Integrante | GitHub |
@@ -54,11 +46,3 @@ O nicho escolhido pelo grupo será **entrega de bolos** (Confeitaria & Delivery)
 | **Pedro Felix** | [github.com/Pedro-Felix2808](https://github.com/Pedro-Felix2808) |
 | **Fábio Tavares** | [github.com/FabioTavaresCruz](https://github.com/FabioTavaresCruz) |
 
----
-
-## 📂 Links dos Artefatos (Em Atualização)
-* 📄 **Documento de Visão, Cronograma e Matriz de Requisitos (LER):** *Em breve*
-* 🎨 **Wireframe do Sistema (LOPAL) e Protótipo da Landing Page (LIMA):** *Em breve*
-* 💻 **Código-Fonte Python (Sistema) e HTML/CSS (Landing Page):** *Em breve*
-* 🖥️ **Relatório de Infraestrutura e Redes (ARI / SOP):** *Em breve*
-* 🎥 **Vídeo Pitch:** *Em breve*

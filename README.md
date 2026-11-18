@@ -34,7 +34,7 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 
 | Data | Entrega / Marco | Disciplina | Arquivo / Link |
 | :--- | :--- | :--- | :--- |
-| **18/11/2026** | **Documento de Visão e Cronograma** | **LER** | [Abrir PDF](./Documento%20de%20Vis%C3%A3o%20e%20Cronograma%20-%20Atelier%20do%20Bolo%20(LER) |
+| **18/11/2026** | **Documento de Visão e Cronograma** | **LER** | [Abrir PDF](./Documento%20de%20Vis%C3%A3o%20e%20Cronograma%20-%20Atelier%20do%20Bolo%20(LER)).pdf) |
 | **18/11/2026** | **Protótipo da Landing Page (Figma)** | **LIMA** | [Acessar Figma](https://www.figma.com/design/MdDs9MoqQrUcWzJYKxmUCg/Landing-Page---Atelier-do-Bolo?node-id=0-1&p=f&t=FS2vCzjn0ZTlg06N-0) |
 
 ---

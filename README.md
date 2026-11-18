@@ -38,7 +38,7 @@ O nicho escolhido pelo grupo será **entrega de bolos** .
 
 | Data | Entrega / Marco | Disciplina | Arquivo / Link |
 | :--- | :--- | :--- | :--- |
-| **18/11/2026** | **Documento de Visão e Cronograma** | **LER** | [Documento de Visão e Cronograma - Atelier do Bolo (LER).pdf]()[cite: 12] |
+| **18/11/2026** | **Documento de Visão e Cronograma** | **LER** | (./Documento_de_Visao_e_Cronograma_Atelier_do_Bolo.docx) |
 
 ---
 

@@ -38,6 +38,9 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 | **18/11/2026** | **Protótipo da Landing Page (Figma)** | **LIMA** | [Acessar Figma](https://www.figma.com/design/MdDs9MoqQrUcWzJYKxmUCg/Landing-Page---Atelier-do-Bolo?node-id=0-1&p=f&t=FS2vCzjn0ZTlg06N-0) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Regras de negócio)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Regras%20de%20Neg%C3%B3cio%20do%20Projeto%20atelier%20de%20bolo.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 1)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20funcionais%201.pdf) |
+| **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 2)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20funcionais%202.pdf) |
+| **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 2)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20N%C3%A3o%20funcionais%20atelier%20de%20bolo.pdf) |
+
 
 
 ---

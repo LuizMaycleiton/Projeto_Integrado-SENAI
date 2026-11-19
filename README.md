@@ -19,14 +19,14 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 1. **Produtos**: A loja irá vender bolos prontos para entrega (podendo escolher entre bolos menores/médios e fatias) e bebidas. Entrega também bolos personalizados, podendo escolher a massa, o recheio e o peso do bolo.
 
 2. **Pedidos**: O sistema controla quais são os pedidos ativos, quais entregadores estão livres e avisa quando um pedido tem bolo grande de festa. Poderá consultar o histórico de pedidos já entregues (para conferir endereço, valor ou cliente recorrente) e ter a opção de cancelar um pedido caso o cliente desista antes do preparo.
-   - Mostra em qual etapa cada pedido está (`Recebido` ➔ `Na Confeitaria` ➔ `Saiu para Entrega` ➔ `Entregue`).
+- Mostra em qual etapa cada pedido está (`Recebido` ➔ `Na Confeitaria` ➔ `Saiu para Entrega` ➔ `Entregue`).
 
 3. **Motoboy**: Cadastrar novos entregadores (nome, telefone, placa e tipo de baú), editar dados e alterar o status manualmente (Disponível, Indisponível, Em Rota).
 
 4. **Portabilidade:**
-   - **Clientes:** Mobile
-   - **Motoboys:** Mobile
-   - **Funcionários:** Desktop
+- **Clientes:** Mobile
+  - **Motoboys:** Mobile
+  - **Funcionários:** Desktop
 
 ---
 
@@ -40,8 +40,8 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 1)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20funcionais%201.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 2)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20funcionais%202.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos não funcionais)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20N%C3%A3o%20funcionais%20atelier%20de%20bolo.pdf) |
-
-
+| **19/11/2026** | **Wireframe da Landing Page (Mobile)** | **LER** | [Acessar Wireframe](https://wireframe.cc/Dnn2AP) |
+| **19/11/2026** | **Wireframe da Landing Page (Desktop)** | **LER** | [Acessar Wireframe](https://wireframe.cc/vCDQ8k) |
 
 ---
 

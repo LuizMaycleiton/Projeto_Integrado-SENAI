@@ -43,6 +43,16 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 | **19/11/2026** | **Wireframe da Landing Page (Mobile)** | **LER** | [Acessar Wireframe](https://wireframe.cc/Dnn2AP) |
 | **19/11/2026** | **Wireframe da Landing Page (Desktop)** | **LER** | [Acessar Wireframe](https://wireframe.cc/vCDQ8k) |
 | **23/11/2026** | **Repositório da Landing Page (HTML/CSS)** | **LIMA** | [Acessar Repositório](https://github.com/LuizMaycleiton/Atelier-do-Bolo) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/oOChUB) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/b2LFVe) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/Fuhrp7) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/j0UqsA) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/8o2gxs) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/4MgHro) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/13V0cu) |
+| **23/11/2026** | **Links dos wireframes do sistema python** | **LER** | [Acessar Wireframe](https://wireframe.cc/mcNPrA) |
+
+
 
 ---
 

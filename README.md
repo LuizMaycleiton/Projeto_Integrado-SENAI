@@ -39,6 +39,7 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 | **19/11/2026** | **Matriz de requisitos do projeto (Regras de negócio)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Regras%20de%20Neg%C3%B3cio%20do%20Projeto%20atelier%20de%20bolo.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 1)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20Funcionais%201%20atelier%20do%20bolo%20atualizado.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 2)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20funcionais%202%20atelier%20do%20bolo%20atualizado.pdf) |
+| **19/11/2026** | **Matriz de requisitos do projeto (Requisitos funcionais 3)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20Funcionais%203%20atelier%20do%20bolo.pdf) |
 | **19/11/2026** | **Matriz de requisitos do projeto (Requisitos não funcionais)** | **LER** | [Abrir PDF](https://github.com/LuizMaycleiton/Projeto_Integrado-SENAI/blob/main/Levantamento%20de%20Requisitos%20N%C3%A3o%20funcionais%20atelier%20de%20bolo.pdf) |
 | **19/11/2026** | **Wireframe da Landing Page (Mobile)** | **LER** | [Acessar Wireframe](https://wireframe.cc/Dnn2AP) |
 | **19/11/2026** | **Wireframe da Landing Page (Desktop)** | **LER** | [Acessar Wireframe](https://wireframe.cc/vCDQ8k) |

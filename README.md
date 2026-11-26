@@ -19,14 +19,14 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 1. **Produtos**: A loja irá vender bolos prontos para entrega (podendo escolher entre bolos menores/médios e fatias) e bebidas. Entrega também bolos personalizados, podendo escolher a massa, o recheio e o peso do bolo.
 
 2. **Pedidos**: O sistema controla quais são os pedidos ativos, quais entregadores estão livres e avisa quando um pedido tem bolo grande de festa. Poderá consultar o histórico de pedidos já entregues (para conferir endereço, valor ou cliente recorrente) e ter a opção de cancelar um pedido caso o cliente desista antes do preparo.
-   - Mostra em qual etapa cada pedido está (`Recebido` ➔ `Na Confeitaria` ➔ `Saiu para Entrega` ➔ `Entregue`).
+- Mostra em qual etapa cada pedido está (`Recebido` ➔ `Na Confeitaria` ➔ `Saiu para Entrega` ➔ `Entregue`).
 
 3. **Motoboy**: Cadastrar novos entregadores (nome, telefone, placa e tipo de baú), editar dados e alterar o status manualmente (Disponível, Indisponível, Em Rota).
 
 4. **Portabilidade:**
-   - **Clientes:** Mobile
-   - **Motoboys:** Mobile
-   - **Funcionários:** Desktop
+- **Clientes:** Mobile
+  - **Motoboys:** Mobile
+  - **Funcionários:** Desktop
 
 ---
 
@@ -52,8 +52,7 @@ O nicho escolhido pelo grupo será **entrega de bolos**.
 | **23/11/2026** | **Links dos wireframes do sistema python (Gestão de motoboys)** | **LER** | [Acessar Wireframe](https://wireframe.cc/4MgHro) |
 | **23/11/2026** | **Links dos wireframes do sistema python (Clientes & Histórico 1)** | **LER** | [Acessar Wireframe](https://wireframe.cc/13V0cu) |
 | **23/11/2026** | **Links dos wireframes do sistema python (Clientes & Histórico 2)** | **LER** | [Acessar Wireframe](https://wireframe.cc/mcNPrA) |
-
-
+| **26/11/2026** | **Repositório do Sistema Python** | **LOPAL** | [Acessar Repositório](https://github.com/LuizMaycleiton/Sistema-python) |
 
 ---
 
